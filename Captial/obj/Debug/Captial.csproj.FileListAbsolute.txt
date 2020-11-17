@@ -1,0 +1,11 @@
+F:\program\Captaland\Captial\Captial\obj\Debug\ResolveAssemblyReference.cache
+F:\program\Captaland\Captial\Captial\bin\Debug\Captial.dll
+F:\program\Captaland\Captial\Captial\bin\Debug\Captial.pdb
+F:\program\Captaland\Captial\Captial\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+F:\program\Captaland\Captial\Captial\bin\Debug\Crestron.SimplSharpPro.UI.dll
+F:\program\Captaland\Captial\Captial\bin\Debug\SimplSharpCustomAttributesInterface.dll
+F:\program\Captaland\Captial\Captial\bin\Debug\SimplSharpHelperInterface.dll
+F:\program\Captaland\Captial\Captial\bin\Debug\SimplSharpPro.exe
+F:\program\Captaland\Captial\Captial\bin\Debug\Newtonsoft.Json.Compact.dll
+F:\program\Captaland\Captial\Captial\obj\Debug\Captial.dll
+F:\program\Captaland\Captial\Captial\obj\Debug\Captial.pdb
